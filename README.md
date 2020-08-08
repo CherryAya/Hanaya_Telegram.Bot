@@ -7,6 +7,4 @@
 ##### 界面引用MahApps.Metro库  :  [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
 ###### Language:C# Based on:.Net Framework 4.5.2 Using:Telegram.Bot.C#SDK:[Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)
 ###### UI using MahApps.Metro  :  [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
-***
-
-***
+*** 
